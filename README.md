@@ -10,4 +10,3 @@
 이렇게 3가지로 나누어 3가지중 1개를 선택하여 크롤링할 수 있도록 수정하였다.
 
 # 초기화면
-![image](https://user-images.githubusercontent.com/61766408/148412794-9a4a9c3f-0387-48fe-969c-cb479ae03807.png)
