@@ -73,6 +73,3 @@ def naver_login(title, news_url, id, pwd, tags):
         time.sleep(sleep_sec)
 
     driver.close()
-
-
-# naver_login('1', '1', 'rlawjdtn98', 'vnttkrhk15')
